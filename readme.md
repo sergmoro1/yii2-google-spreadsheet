@@ -47,6 +47,8 @@ http://localhost/yousite/frontend/web/google/oauth2
 // production<br>
 http://yoursiteDOTcom/google/oauth2
 
-Any other Uri can be declared.
+<h2>Result</h2>
+Now you can view list of your spreadsheets, if you have them, by active Uri at the moment:
 
-Now you can view spreadsheets, if you have them, by active Uri at the moment.
+http://yoursite_or_localhost_path/google
+
