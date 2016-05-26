@@ -1,0 +1,27 @@
+{
+    "name": "sergmoro1/yii2-google-spreadsheet",
+    "version": "1.0.0",
+    "description": "Access to Google SpreadSheet from Yii2 by Google REST API.",
+    "keywords": [
+        "yii2",
+        "google", "REST API", "spreadsheet"
+    ],
+    "type": "yii2-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sergey Morozov",
+            "email": "sergmoro1@ya.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+		"php": ">=5.4.0",
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "sergmoro1\\googless\\": ""
+        }
+    }
+}
