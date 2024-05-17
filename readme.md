@@ -5,9 +5,6 @@ open selected spreadsheet in IFRAME.
 
 Example of using Google REST API and OAuth2 authorization.
 
-<h2>Demo</h2>
-<a href='http://sample.vorst.ru/google'>List of your google spredsheets</a>.
-
 <h2>Installation</h2>
 
 <h3>Register Google-project first</h3>
